@@ -34,7 +34,7 @@ A Synchronous Down Counter is a digital sequential circuit in which all flip-flo
 ![alt text](image.png)
 
 **Procedure**
-SYNCHRONOUS-UP-COUNTER:
+SYNCHRONOUS-UP-COUNTER:                                                                                                                         
 Connect Vcc and GND to the counter IC.
 
 Apply clock pulses to the common clock input.
@@ -45,7 +45,7 @@ Observe the output count (Q) after each clock pulse.
 
 Verify that the count increments synchronously in binary.
 
-SYNCHRONOUS-DOWN-COUNTER:
+SYNCHRONOUS-DOWN-COUNTER:                                                                                                                       
 Connect Vcc and GND to the counter IC.
 
 Apply clock pulses to the common clock input.
